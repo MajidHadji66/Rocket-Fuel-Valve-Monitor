@@ -1,0 +1,5 @@
+{
+  "name": "Rocket Fuel Valve Monitor",
+  "description": "A real-time dashboard simulating live data from a rocket fuel valve, displaying its ON/OFF status with timestamps. Designed as a prototype for a mission control interface.",
+  "requestFramePermissions": []
+}
